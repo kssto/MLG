@@ -1,0 +1,15 @@
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\bin\Debug\net6.0\Bussiness.deps.json
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\bin\Debug\net6.0\Bussiness.dll
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\bin\Debug\net6.0\Bussiness.pdb
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\bin\Debug\net6.0\Data.dll
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\bin\Debug\net6.0\Data.pdb
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfo.cs
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CopyComplete
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.dll
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\refint\Bussiness.dll
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\Bussiness.pdb
+C:\Users\rulis\source\repos\MasterLoyaltyGroup\Bussiness\obj\Debug\net6.0\ref\Bussiness.dll
